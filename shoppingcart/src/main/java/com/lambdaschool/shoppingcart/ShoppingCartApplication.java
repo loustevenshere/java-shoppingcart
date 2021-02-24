@@ -11,6 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @SpringBootApplication
 public class ShoppingCartApplication
 {
+    // Method to start the application
     /**
      * Main method to start the application.
      *
